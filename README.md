@@ -5,7 +5,7 @@ It provides **ATS-style matching**, **skill gap analysis**, and **AI feedback** 
 
 The project is built using **Flask**, **Tailwind CSS**, **Google Gemini**, and **Supabase** and is deployed on **Vercel**.
 
-🌐 Live Demo: https://ai-resume-analyzer-one-pink.vercel.app/
+🌐 Live Demo: https://ai-resume-analyzer-three-red.vercel.app/
 
 ---
 
